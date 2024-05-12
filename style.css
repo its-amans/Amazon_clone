@@ -28,6 +28,10 @@
 .border:hover{
     border:2px solid white;
 }
+.nav_address{
+    height:50px;
+    align-items:center;
+}
 .light_white{
     color:#cccccc;
     font-size:0.8rem;
@@ -49,7 +53,7 @@
 .nav_search_elements{
     display:flex;
     align-items:center;
-    width: 1000px;
+    width: 900px;
     height:40px;
     justify-content:space-evenly;
     border-radius:4px;

@@ -46,7 +46,7 @@
     display:flex;
     align-items:center
 }
-.nav_search:active{
+.nav_search:hover{
     border:3px solid #febd69;
     border-radius:4px;
 }

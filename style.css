@@ -30,7 +30,7 @@
 }
 .nav_address{
     height:50px;
-    align-items:center;
+    align-content:center;
 }
 .light_white{
     color:#cccccc;
